@@ -35,4 +35,19 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 ## Do it here:
 
+*(note: remember to add a double space to end a line in markdown)*
+
+### From the github GUI
+
+**YOUR NAME**      -  **YOUR COMMENT**
+
+John Doe           - *A witty remark*  
+Jane Doe           - *A wittier remark*  
+John Griffiths     - *An even wittier remark*    
+
+
+
+### From your local github clone
+
+**YOUR NAME**      -  **YOUR COMMENT**
 
