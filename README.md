@@ -39,15 +39,18 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 ### From the github GUI
 
+(process: fork this repo, edit this README doc in the browser, make a pull request to this repo)
+
 **YOUR NAME**      -  **YOUR COMMENT**
 
 John Doe           - *A witty remark*  
 Jane Doe           - *A wittier remark*  
-John Griffiths     - *An even wittier remark*    
 
 
 
 ### From your local github clone
+
+(process: clone your fork, make a branch, edit this README doc in the terminal, commit, push to your fork, submit make a pull request to this repo)
 
 **YOUR NAME**      -  **YOUR COMMENT**
 
