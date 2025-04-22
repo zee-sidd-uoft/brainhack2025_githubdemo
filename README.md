@@ -39,7 +39,7 @@ If you are interested in these things and aren't sure what to do next, **ask and
 
 ### From the github GUI
 
-(process: fork this repo, edit this README doc in the browser, make a pull request to this repo)
+(process: fork this repo, create a new branch, edit this README doc in the browser, make a pull request to this repo)
 
 **YOUR NAME**      -  **YOUR COMMENT**
 
